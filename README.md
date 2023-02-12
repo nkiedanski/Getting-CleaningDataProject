@@ -7,7 +7,7 @@ Version 1.0
 
 The repo contains the following files:
 
-- "code_book.txt": describing the variables
+- "code_book.md": describing the variables
 - "run_analysis.R": the file containing the r script for getting and cleaning the data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
 A full description is available at the site where the data was obtained:
