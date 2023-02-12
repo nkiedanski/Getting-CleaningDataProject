@@ -1,10 +1,9 @@
 # Getting-CleaningDataProject
 
 
-==================================================================
 Final Assignment
 Version 1.0
-==================================================================
+
 
 The repo contains the following files:
 
